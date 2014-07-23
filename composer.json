@@ -1,0 +1,14 @@
+{
+    "name": "webgroupmedia/cerb5_webapi",
+    "type": "project",
+    "description": "Cerb5 Web API class",
+    "license" : "MIT",
+    "require":{
+        "php":">=5.2"
+    },
+    "autoload": {
+        "classmap": [
+            "Cerb5_WebAPI.php"
+        ]
+    }
+}
